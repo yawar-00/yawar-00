@@ -2,7 +2,7 @@
 
 <p align="center">
   🌱 Currently diving deep into <strong>Java DSA</strong> <br>
-  👯 Open to collaborating on awesome <strong>React.js projects</strong> <br>
+  👯 Open to collaborating on awesome <strong>React.js\Laravel projects</strong> <br>
   📫 Reach me at: <a href="mailto:hussainyawar140504@gmail.com">hussainyawar140504@gmail.com</a> <br>
   😄 Pronouns: <strong>He/Him</strong> <br>
   ⚡ Fun fact: <em>"I don't have mind-to-mind things..." 🤯</em>
