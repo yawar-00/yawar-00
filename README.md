@@ -21,7 +21,7 @@
 ### 📊 Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/path-to-image.png" alt="Languages Used" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yawar-00&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
