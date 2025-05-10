@@ -18,6 +18,14 @@
 
 ---
 
+### 📊 Languages
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/path-to-image.png" alt="Languages Used" />
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -33,8 +41,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<!---
-yawar-00/yawar-00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
